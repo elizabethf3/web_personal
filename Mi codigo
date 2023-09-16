@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>Mi pagina web</title>
+
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+    <h1>Elizabeth Ruth Flores</h1>
+    <p>Tengo 28 años</p>
+    <p>Soy de Salta, Argentina</p>
+    <p>Soy estudiante de la tecnicatura de H&S en el trabajo</p>
+    <p>Aparte estoy incursionando en el mundo de la programacion</p>
+    <p>Lo cual es algo que me gusta e inspira</p> 
+    <p>En un futuro me gustaria ser buena profecional</p>
+    <p>Soy canstante y diciplinada</p>
+    <p>Continuare en esta fascinante trayectoria</p>
+</body>
+</html>h1{
+    color:rgb(153, 56, 103);
+    background:black;
+    font-size: 26px;
+}
+
+p{
+    color:rgb(102, 41, 97);
+    font-size: 18px;
+}
+
